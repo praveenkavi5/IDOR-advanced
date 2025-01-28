@@ -1,8 +1,4 @@
-Here's a comprehensive README.md for your advanced IDOR detection tool:
-
-```markdown
 # Advanced IDOR Scanner 🔍
-
 A sophisticated Insecure Direct Object Reference (IDOR) detection tool implementing cutting-edge techniques from recent security research.
 
 ## Features 🚀
