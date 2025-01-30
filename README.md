@@ -110,7 +110,7 @@ seq 1000 2000 > numeric_ids.txt
   -w numeric_ids.txt \
   -m "GET,PUT"
 ```
-
+ 
 ## Troubleshooting 🚨
 
 | Issue                          | Solution                          |
